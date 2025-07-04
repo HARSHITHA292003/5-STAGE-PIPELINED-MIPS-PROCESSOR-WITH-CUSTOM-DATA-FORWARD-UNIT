@@ -121,4 +121,3 @@ To handle data hazards caused by instruction dependencies, a **custom forwarding
   GitHub: [@HARSHITHA292003](https://github.com/HARSHITHA292003)
 
 ---
-
